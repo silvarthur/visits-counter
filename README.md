@@ -1,11 +1,11 @@
 # How to start the Visit Counter application:
 
-If the nothing has changed in the files:
+If nothing has changed in the files:
 ```
 docker-compose up
 ```
 
-But, if something was changed in the files and you want to see them in the application:
+But, if something has changed in the files and you want to see them in the application:
 ```
 docker-compose up --build
 ```
